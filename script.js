@@ -42,8 +42,8 @@ function encriptar(stringEncriptada){
 function boton_desencriptador (){
     const texto = textArea.value; 
     if(patron.test(texto)){
-        const textoEncriptado = encriptar(texto);
-        mensaje.value = textoEncriptado;
+        const textoDesencriptado = desencriptar(texto); // Cambiar a desencriptar
+        mensaje.value = textoDesencriptado; // Mostrar el texto desencriptado
         presentacion.style.display = "none"
         resultado.style.display = "flex";
     } else {
