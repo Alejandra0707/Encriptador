@@ -20,6 +20,7 @@ function boton_encriptador() {
         mensaje.value = textoEncriptado;
         presentacion.style.display = "none"
         resultado.style.display = "flex";
+        textArea.value = "";
     } else {
         alert("Caracteres no validos, intente nuevamente.")
     }
@@ -46,6 +47,7 @@ function boton_desencriptador (){
         mensaje.value = textoDesencriptado; // Mostrar el texto desencriptado
         presentacion.style.display = "none"
         resultado.style.display = "flex";
+        textArea.value = "";
     } else {
         alert("Caracteres no validos, intente nuevamente.")
     }
