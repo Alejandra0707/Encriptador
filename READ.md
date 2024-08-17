@@ -25,7 +25,7 @@ Este proyecto fue desarrollado como parte del desafío de la plataforma **Alura*
 - Funciona solo con letras minúsculas.
 - No se permiten caracteres especiales ni acentos.
 - Se puede encriptar y desencriptar un mensaje.
-- - **Diseño Responsivo**: El diseño se adapta a diferentes tamaños de pantalla, asegurando una buena visualización tanto en **PC** como en **tablets** y dispositivos móviles.
+- **Diseño Responsivo**: El diseño se adapta a diferentes tamaños de pantalla, asegurando una buena visualización tanto en **PC** como en **tablets** y dispositivos móviles.
 
 ### Ejemplo:
 - Texto original: `hola` => Encriptado: `hoberlai`
@@ -35,17 +35,17 @@ Este proyecto fue desarrollado como parte del desafío de la plataforma **Alura*
 ### Vista en PC
 Así se ve la aplicación en una computadora:
 
-![Vista en PC](img/encriptadorpc.png)
+<img src="img/encriptadorpc.png" alt="Vista en PC" width="50%">
 
 ### Vista en Tablets
 Vista adaptada para tabletas:
 
-![Vista en Tablets](img/encriptadortablet.png)
+<img src="img/encriptadortablet.png" alt="Vista en PC" width="50%">
 
 ### Vista en Celulares
 Vista adaptada para celulares:
 
-![Vista en Tablets](img/encriptadorcelular.png)
+<img src="img/encriptadorcelular.png" alt="Vista en PC" width="50%">
 
 ## 🚧 Estado del Proyecto
 El proyecto ha sido **completado** con todas las funcionalidades implementadas.
