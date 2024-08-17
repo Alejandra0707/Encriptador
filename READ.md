@@ -40,12 +40,12 @@ Así se ve la aplicación en una computadora:
 ### Vista en Tablets
 Vista adaptada para tabletas:
 
-![Vista en Tablets]
+![Vista en Tablets](img/encriptadortablet.png)
 
 ### Vista en Celulares
 Vista adaptada para celulares:
 
-![Vista en Tablets]
+![Vista en Tablets](img/encriptadorcelular.png)
 
 ## 🚧 Estado del Proyecto
 El proyecto ha sido **completado** con todas las funcionalidades implementadas.
