@@ -27,8 +27,8 @@ Este proyecto fue desarrollado como parte del desafío de la plataforma **Alura*
 - Se puede encriptar y desencriptar un mensaje.
 
 ### Ejemplo:
-- Texto original: `gato` => Encriptado: `gaitober`
-- Texto encriptado: `gaitober` => Desencriptado: `gato`
+- Texto original: `hola` => Encriptado: `hoberlai`
+- Texto encriptado: `hoberlai` => Desencriptado: `hola`
 
 ## 🚧 Estado del Proyecto
 El proyecto ha sido **completado** con todas las funcionalidades implementadas.
