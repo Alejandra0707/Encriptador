@@ -38,9 +38,6 @@ El proyecto ha sido **completado** con todas las funcionalidades implementadas.
 - **Desencriptar Texto**: Revierte el proceso de encriptación y devuelve el texto original.
 - **Copiar Texto**: Botón que copia el texto encriptado o desencriptado al portapapeles para facilitar su uso.
 
-### Capturas de Pantalla
-![Captura de pantalla](img/screenshot.png)
-
 ## 🚀 Acceso al Proyecto
 Puedes acceder al proyecto directamente clonando este repositorio:
 https://github.com/alejandra-diaz/encriptador-texto.git
