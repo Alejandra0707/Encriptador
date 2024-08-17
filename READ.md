@@ -2,9 +2,6 @@
 
 ![Imagen de portada](img/Logo.svg)
 
-## 🏅 Insignias
-[![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-yellow)]()
-
 ## 📋 Índice
 - [Descripción del Proyecto](#descripción-del-proyecto)
 - [Estado del Proyecto](#estado-del-proyecto)
@@ -34,7 +31,7 @@ Este proyecto fue desarrollado como parte del desafío de la plataforma **Alura*
 - Texto encriptado: `gaitober` => Desencriptado: `gato`
 
 ## 🚧 Estado del Proyecto
-El proyecto se encuentra actualmente **en desarrollo**, con todas las funcionalidades principales implementadas. Se planean mejoras en la interfaz de usuario y optimización del código.
+El proyecto ha sido **completado** con todas las funcionalidades implementadas.
 
 ## 💻 Funcionalidades
 - **Encriptar Texto**: Convierte un texto según las reglas de encriptación establecidas.
