@@ -25,10 +25,27 @@ Este proyecto fue desarrollado como parte del desafío de la plataforma **Alura*
 - Funciona solo con letras minúsculas.
 - No se permiten caracteres especiales ni acentos.
 - Se puede encriptar y desencriptar un mensaje.
+- - **Diseño Responsivo**: El diseño se adapta a diferentes tamaños de pantalla, asegurando una buena visualización tanto en **PC** como en **tablets** y dispositivos móviles.
 
 ### Ejemplo:
 - Texto original: `hola` => Encriptado: `hoberlai`
 - Texto encriptado: `hoberlai` => Desencriptado: `hola`
+
+## 📱 Vista en Dispositivos
+### Vista en PC
+Así se ve la aplicación en una computadora:
+
+![Vista en PC](img/encriptadorpc.png)
+
+### Vista en Tablets
+Vista adaptada para tabletas:
+
+![Vista en Tablets]
+
+### Vista en Celulares
+Vista adaptada para celulares:
+
+![Vista en Tablets]
 
 ## 🚧 Estado del Proyecto
 El proyecto ha sido **completado** con todas las funcionalidades implementadas.
@@ -46,11 +63,6 @@ https://github.com/alejandra-diaz/encriptador-texto.git
 - **HTML5**: Para la estructura de la página.
 - **CSS3**: Para el diseño visual y la disposición del contenido.
 - **JavaScript**: Para la lógica de encriptación y desencriptación de los textos.
-
-## 💻 Vista en PC
-Así se ve la aplicación en una computadora:
-
-![Vista en PC](img/encriptadorpc.png)
 
 ## 👥 Personas Contribuyentes
 - **Alejandra Díaz** - [GitHub](https://github.com/alejandra-diaz)
