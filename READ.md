@@ -1,6 +1,4 @@
-# Encriptador de Texto - Proyecto Alura Challenge
-
-![Imagen de portada](img/Logo.svg)
+# Encriptador de Texto - Proyecto Alura Challenge ![Imagen de portada](img/Logo.svg)
 
 ## 📋 Índice
 - [Descripción del Proyecto](#descripción-del-proyecto)
