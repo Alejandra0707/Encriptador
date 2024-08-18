@@ -1,4 +1,4 @@
-# Encriptador de Texto - Proyecto Alura Challenge 
+# Encriptador de Texto - Proyecto Alura Challenge #0A3871
 
 ![Imagen de portada](img/Logo.svg)
 
