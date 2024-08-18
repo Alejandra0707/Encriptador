@@ -1,6 +1,6 @@
-# Encriptador de Texto - Proyecto Alura Challenge #0A3871
+<center># Encriptador de Texto - Proyecto Alura Challenge</center>
 
-![Imagen de portada](img/Logo.svg)
+<center>![Imagen de portada](img/Logo.svg)</center>
 
 ## 📋 Índice
 - [Descripción del Proyecto](#descripción-del-proyecto)
