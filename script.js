@@ -71,7 +71,6 @@ function boton_copiar(){
             setTimeout(()=>{
                 botonCopiar.innerHTML = "Copiar";
             }, 1000)
-            textArea.value = "";
         })
 }
 
